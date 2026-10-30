@@ -2,4 +2,4 @@
 
 repte1 en equip
 
-Integrantes: ERic, Sergio, Kevi y Santi
+Integrantes: Eric, Sergio, Kevin y Santi
